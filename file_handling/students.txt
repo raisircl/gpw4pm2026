@@ -1,0 +1,6 @@
+Alice
+Bob
+Charlie
+All are good students...
+Day 2: Practiced read and append mode.
+Day 3: Practiced CSV basics.

@@ -1,0 +1,5 @@
+file=open("file_handling/students.txt","w")
+file.write("Alice\n")
+file.write("Bob\n")
+file.write("Charlie\n")
+file.close()
